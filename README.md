@@ -1,2 +1,3 @@
-# lfpyclass
-python session on lftechnology
+# pysessions
+
+Combined Materials that i use in teaching Python
