@@ -1,0 +1,10 @@
+name: pysession
+dependencies:
+  - python
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - bokeh
+  - lxml
+  - beautifulsoup4
