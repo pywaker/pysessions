@@ -8,6 +8,8 @@
 
     $ git clone https://github.com/idwaker/pysessions.git
     $ cd pysessions
+    $ git submodule init
+    $ git submodule update
     $ conda env create
     $ source activate pysession
     $ jupyter-notebook
