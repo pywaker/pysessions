@@ -8,3 +8,4 @@ dependencies:
   - bokeh
   - lxml
   - beautifulsoup4
+  - xlrd
