@@ -1,6 +1,12 @@
 # pysessions
 ---
 
+## WIP
+This repository is being splitted into separate repository
+
+see [datascience](https://github.com/lfapython/datascience) for datascience
+and [python](https://github.com/lfapython/python) for python basics.
+
 
 ### Downloading and loading files in jupyter
 
