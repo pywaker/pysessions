@@ -1,7 +1,7 @@
 # pysessions
 ---
 
-## WIP
+## Deprecated
 This repository is being splitted into separate repository
 
 see [datascience](https://github.com/lfapython/datascience) for datascience
